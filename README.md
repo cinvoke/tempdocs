@@ -1,5 +1,5 @@
 # CSCL Docs
-Getting started on CasinoCoin Ledger development. This documentation contains some guides for integrating CasinoCoin Ledger related tasks into your platform. This includes createing accounts, viewing ledger data and handling token transactions.
+Getting started on CasinoCoin Ledger development. This documentation contains some guides for integrating CasinoCoin Ledger related tasks into your platform. This includes creating accounts, viewing ledger data and handling token transactions.
 
 ## Versions
 We've written a few examples based on the type of accessibility or which development language is used. 
